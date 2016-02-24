@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DodgeGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_user_name">Pause Time</string>
+    <string name="pref_challenge">Challenge Mode</string>
+    <string name="pref_pause">Pause Time</string>
+    <string name="pref_enemy">Enemy SIze Change</string>
+    <string name="pref_win">Window Size</string>
+
+</resources>
